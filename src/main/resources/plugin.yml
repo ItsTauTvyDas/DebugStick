@@ -1,0 +1,5 @@
+name: DebugStick
+main: me.itstautvydas.debugstick.DebugStickPlugin
+version: 1.1
+author: ItsTauTvyDas
+softdepend: [WorldEdit, WorldGuard, PlotSquared]
